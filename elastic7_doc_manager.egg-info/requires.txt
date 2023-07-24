@@ -1,0 +1,9 @@
+mongo-connector>=2.5.0
+importlib_metadata
+
+[aws]
+boto3>=1.4.0
+requests-aws-sign>=0.1.2
+
+[elastic7]
+elasticsearch<8.0.0,>=7.0.0
